@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e16a9e24-98b0-4628-8a68-e80f781e3fe0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Program Files\Java\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e9kShmm8uMSFhT8pCmL1SnuAju" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/yang/mybatis/simple" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="yang.mybatis.simple.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\demoproject\studyMybatis\src\main\resources\sounds" />
+      <recent name="E:\demoproject\studyMybatis\src\main\resources\images" />
+      <recent name="E:\demoproject\studyMybatis\src\main\java\yang\mybatis\simple" />
+      <recent name="E:\demoproject\studyMybatis\src\main\resources" />
+      <recent name="E:\demoproject\studyMybatis\src\test\java\yang\mybatis\simple\mapper" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="yang.mybatis.simple.generator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\demoproject\studyMybatis\src\main\resources" />
+      <recent name="E:\demoproject\studyMybatis\src\main\resources\log-conf" />
+      <recent name="E:\demoproject\studyMybatis\src\main\resources\mybatis-conf" />
+      <recent name="E:\demoproject\studyMybatis\src\main\java\yang\mybatis\simple\mapper" />
+      <recent name="E:\demoproject\studyMybatis\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RoleMapperTest.testL2Cache">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yang.mybatis.simple.generator.Generator" />
+      <module name="StudyMybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yang.mybatis.simple.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sound.Main" />
+      <module name="StudyMybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoleMapperTest.testL2Cache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudyMybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yang.mybatis.simple.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yang.mybatis.simple.mapper" />
+      <option name="MAIN_CLASS_NAME" value="yang.mybatis.simple.mapper.RoleMapperTest" />
+      <option name="METHOD_NAME" value="testL2Cache" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testSelectUserAndRoleById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudyMybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yang.mybatis.simple.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yang.mybatis.simple.mapper" />
+      <option name="MAIN_CLASS_NAME" value="yang.mybatis.simple.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="testSelectUserAndRoleById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testSelectUserAndRoleById2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudyMybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yang.mybatis.simple.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yang.mybatis.simple.mapper" />
+      <option name="MAIN_CLASS_NAME" value="yang.mybatis.simple.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="testSelectUserAndRoleById2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoleMapperTest.testL2Cache" />
+        <item itemvalue="JUnit.UserMapperTest.testSelectUserAndRoleById2" />
+        <item itemvalue="JUnit.UserMapperTest.testSelectUserAndRoleById" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Generator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e16a9e24-98b0-4628-8a68-e80f781e3fe0" name="Default Changelist" comment="" />
+      <created>1593741197204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593741197204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="0" key="#Project_Structure" timestamp="1593745373719">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="312" y="0" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1593745373719" />
+    <state x="407" y="357" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1594284472754">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="407" y="357" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1594284472754" />
+    <state x="482" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594109502632">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="482" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1594109502632" />
+    <state x="685" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1594285914735">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="685" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1594285914735" />
+    <state x="618" y="371" width="684" height="320" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593758046391">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="618" y="371" width="684" height="320" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1593758046391" />
+    <state x="624" y="212" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593760121134">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="624" y="212" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593760121134" />
+    <state x="623" y="138" key="FileChooserDialogImpl" timestamp="1594370560361">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="138" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1594370560361" />
+    <state width="1869" height="421" key="GridCell.Tab.0.bottom" timestamp="1594374639546">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="421" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1594374639546" />
+    <state width="1869" height="421" key="GridCell.Tab.0.center" timestamp="1594374639545">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="421" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1594374639545" />
+    <state width="1869" height="421" key="GridCell.Tab.0.left" timestamp="1594374639545">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="421" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1594374639545" />
+    <state width="1869" height="421" key="GridCell.Tab.0.right" timestamp="1594374639546">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="421" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1594374639546" />
+    <state width="1869" height="336" key="GridCell.Tab.1.bottom" timestamp="1594170532953">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1594170532953" />
+    <state width="1869" height="336" key="GridCell.Tab.1.center" timestamp="1594170532953">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="336" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1594170532953" />
+    <state width="1869" height="336" key="GridCell.Tab.1.left" timestamp="1594170532953">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="336" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1594170532953" />
+    <state width="1869" height="336" key="GridCell.Tab.1.right" timestamp="1594170532953">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="336" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1594170532953" />
+    <state x="374" y="96" key="Maven.ArtifactSearchDialog" timestamp="1594102353634">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="374" y="96" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1594102353634" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1594025557909">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1594025557909" />
+    <state x="671" y="288" key="chooseDestDirectoryDialog" timestamp="1593757088303">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="671" y="288" key="chooseDestDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593757088303" />
+    <state x="461" y="47" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593744686430">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="47" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1593744686430" />
+    <state x="573" y="202" width="773" height="676" key="find.popup" timestamp="1594111248933">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="573" y="202" width="773" height="676" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1594111248933" />
+  </component>
+</project>
