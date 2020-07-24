@@ -7,6 +7,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import java.sql.Connection;
+import java.sql.Driver;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.List;
@@ -18,10 +19,13 @@ public class Example01 {
     public void initData() {
         try {
             // 加载HSQLDB驱动
-            Class.forName("org.hsqldb.jdbcDriver");
+           Class driverClass = Class.forName("com.mysql.jdbc.Driver");
+
+           Driver driver = (Driver) driverClass.newInstance();
+           DriverManager.registerDriver(driver);
             // 获取Connection对象
-            conn = DriverManager.getConnection("jdbc:hsqldb:mem:mybatis",
-                    "sa", "");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/mybatis",
+                    "root", "Psalm52:8");
             // 使用Mybatis的ScriptRunner工具类执行数据库脚本
             ScriptRunner scriptRunner = new ScriptRunner(conn);
             scriptRunner.setLogWriter(null);
